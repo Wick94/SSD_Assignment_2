@@ -12,3 +12,5 @@ put your client id in the userprofile.html
 4.grant access permissions
 
 5.share or send private massage by clicking share
+
+6 visit my blog  https://nidarshanavikz.blogspot.com/2018/10/oauth-20-and-social-login.html
